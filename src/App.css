@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+:root {
+  /* text-align: center; */
+  font-family: Nunito;
+  line-height: 1.5;
+  font-weight: 40px;
+
+  
+  /* background-color: #002a55; */
+  background-image: linear-gradient(to bottom, #001f3f, #002143, #002347, #00254b, #00274f, #002a54, #012c59, #012f5e, #013365, #02376c, #023c74, #03407b);
+  background-image: no-repeat;
+  background-attachment: fixed;
+
+  color: rgb(0, 0, 0);
+  margin: auto;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
